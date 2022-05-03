@@ -14,7 +14,7 @@
         "@vue/babel-plugin-jsx": "^1.1.1",
         "axios": "^0.26.1",
         "form-backend-validation": "^2.4.0",
-        "js-beautify": "^1.14.3",
+        "inflector-js": "^1.0.1",
         "laravel-mix": "^6.0.41",
         "postcss": "^8.3.11",
         "resolve-url-loader": "^5.0.0",

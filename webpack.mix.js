@@ -15,5 +15,6 @@ mix
     },
   })
   .alias({
-    "laravel-nova": path.join(__dirname, "vendor/laravel/nova/resources/js/mixins/packages.js"),
+    "@/util": path.join(__dirname, "vendor/laravel/nova/resources/js/util"),
+    "laravel-nova": path.join(__dirname, "vendor/laravel/nova/resources/js/mixins"),
   });

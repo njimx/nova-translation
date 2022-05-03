@@ -11,7 +11,7 @@ mix
       vue: "Vue",
     },
     output: {
-      uniqueName: "njimx/nova-notes-field",
+      uniqueName: "njimx/nova-translation",
     },
   })
   .alias({
